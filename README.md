@@ -1,1 +1,1 @@
--- Repósitorio dos exercícios de Programação Orientada a Objetos I --
+-- Repositório dos exercícios de Programação Orientada a Objetos I --
