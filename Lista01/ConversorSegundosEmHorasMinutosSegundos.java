@@ -22,10 +22,11 @@ public class ConversorSegundosEmHorasMinutosSegundos {
         // 6. Atualize a variável segundos com o resto da divisão de segundos por 60.
         segundos = segundos % 60;
         
-        /* 7. Imprima as variáveis horas, minutos e segundos no formato HH:MM:SS 
-         * (Dica: concatentar com ":" utilizando o operador +).
+        /* 
+         * 7. Imprima as variáveis horas, minutos e segundos no formato HH:MM:SS 
+         *    (Dica: concatentar com ":" utilizando o operador +).
          */
         System.out.println(horas + ":" + minutos + ":" + segundos);
     }
 }
-// 8. Execute a classe e observe o resultado. (SHIFT + F6)
+// 8. Execute a classe e observe o resultado.
