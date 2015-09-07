@@ -8,6 +8,7 @@ import java.awt.event.WindowListener;
 
 // 1. Crie uma classe OuvinteJanela que implementa a interface WindowListener.
 public class OuvinteJanela implements WindowListener {
+    
     /*
      * 2. Defina todos os métodos especificados pela interface WindowListener
      *    (Dica: pressionar Alt+Insert e selecionar Implementar método. Apague as linhas de código gerada em cada método). 
