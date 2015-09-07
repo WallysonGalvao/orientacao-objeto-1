@@ -3,7 +3,7 @@
  */
 package Lista01;
 
-// 1. Crie uma classe chamada ConversorSegundosEmHorasMinutosSegundos com um bloco main.
+// 1. Crie uma classe chamada ConversorSegundosEmHorasMinutosSegundos com um bloco main. 
 public class ConversorSegundosEmHorasMinutosSegundos {
 
     public static void main(String[] args) {
