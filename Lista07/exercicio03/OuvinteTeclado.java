@@ -8,6 +8,7 @@ import java.awt.event.KeyListener;
 
 // 1. Crie uma classe OuvinteTeclado que deve implementar a interface KeyListener.
 public class OuvinteTeclado implements KeyListener {
+    
     // 2. Defina todos os métodos especificados pela interface KeyListener.
     @Override
     public void keyPressed(KeyEvent ke) {
