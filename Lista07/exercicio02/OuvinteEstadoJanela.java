@@ -15,4 +15,4 @@ public class OuvinteEstadoJanela implements WindowStateListener {
         // 14. No método windowStateChanged imprima a mensagem "A janela passou de " + we.getOldState() + " para " + we.getNewState().
         System.out.println("A janela passou de " + we.getOldState() + " para " + we.getNewState());
     }
-}
+} 
