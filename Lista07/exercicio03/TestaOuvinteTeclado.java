@@ -12,7 +12,7 @@ public class TestaOuvinteTeclado {
         // 7. Dentro do main, defina uma variável ouvinte inicializando-a com uma instância de OuvinteTeclado.
         OuvinteTeclado ouvinte = new OuvinteTeclado();
 
-        // 8. Defina uma variável janela inicializando-a com uma instância de JFrame.
+        // 8. Defina uma variável janela inicializando-a com uma instância de JFrame. 
         JFrame janela = new JFrame();
 
         // 9. Adicione o ouvinte à janela através do método addKeyListener.
