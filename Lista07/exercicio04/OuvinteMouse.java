@@ -6,7 +6,7 @@ package lista07.exercicio04;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
-// 1. Crie uma classe OuvinteMouse que deve implementar a interface MouseListener.
+// 1. Crie uma classe OuvinteMouse que deve implementar a interface MouseListener. 
 public class OuvinteMouse implements MouseListener {
     
     // 2. Defina todos os métodos especificados pela interface MouseListener.
