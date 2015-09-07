@@ -31,7 +31,7 @@ public class TestaOuvinteJanela {
         // 10. Atribua o tamanho 640x480, o valor JFrame.EXIT_ON_CLOSE ao botão fechar, exiba a janela.
         janela.setSize(640, 480);
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        janela.setVisible(true);
+        janela.setVisible(true); 
         
         // 11. Execute a classe TestaOuvinteJanela, dispare eventos de janela (maximizar, minimizar, restaurar, fechar) e observe o resultado.
     }
