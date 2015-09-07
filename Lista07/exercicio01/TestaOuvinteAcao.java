@@ -39,7 +39,7 @@ public class TestaOuvinteAcao {
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janela.setVisible(true);
         
-        // 13. Execute a classe TestaOuvinteAcao, dispare eventos de acao (pressionar botão) e observe o resultado.
+        // 13. Execute a classe TestaOuvinteAcao, dispare eventos de acao (pressionar botão) e observe o resultado. 
 
         /*
          * 14. Interrompa a execução e adicione um ouvinte anônimo ao botao
