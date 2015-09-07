@@ -5,7 +5,7 @@ package lista07.exercicio04;
 
 import javax.swing.JFrame;
 
-// 6. Crie uma classe TestaOuvinteMouse com um bloco main.
+// 6. Crie uma classe TestaOuvinteMouse com um bloco main. 
 public class TestaOuvinteMouse {
 
     public static void main(String[] args) {
