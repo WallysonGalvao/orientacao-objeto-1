@@ -1,0 +1,1 @@
+Faça um programa Java onde tudo o que for preenchido em um campo de texto seja adicionado à área de texto assim que pressionar um botão.
